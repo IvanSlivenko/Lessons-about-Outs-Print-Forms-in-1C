@@ -4,7 +4,18 @@ https://youtu.be/z1WNMVluZpY
 00 : 30 : 23
 
 
+---------------------------------    Lessons about develoupment 1C from 1Cnyk
+https://www.youtube.com/@1Czametki/videos
+
+----------------------------------------
+
+----------------------------------------------------------- Lessons about develoupment 1C from kasscentre
+https://www.youtube.com/@kasscentre/videos
+
+-----------------------------------------------
+
 --------------------------------------- Lessons about develoupment 1c from ironskills
+-------------------------------------------------------------------------------------------------- Lesson One
 https://youtu.be/AH9uowkPPFA
 
 
@@ -15,6 +26,8 @@ https://youtu.be/AH9uowkPPFA
 Оператори умови
 Логічні Оператори
 Оператори циклу
+типи Данних
+Побудова функцій
 
 
 
@@ -23,15 +36,6 @@ https://youtu.be/AH9uowkPPFA
 
 
 ---------------------------------------
-02 : 05 : 04
+02 : 50 : 59
 
 
----------------------------------    Lessons about develoupment 1C from 1Cnyk
-https://www.youtube.com/@1Czametki/videos
-
-----------------------------------------
-
------------------------------------------------------------ Lessons about develoupment 1C from kasscentre
-https://www.youtube.com/@kasscentre/videos
-
------------------------------------------------
