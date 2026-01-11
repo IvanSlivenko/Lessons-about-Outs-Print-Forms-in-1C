@@ -14,6 +14,8 @@ https://youtu.be/AH9uowkPPFA
 
 Оператори умови
 Логічні Оператори
+Оператори циклу
+
 
 
 
@@ -21,7 +23,7 @@ https://youtu.be/AH9uowkPPFA
 
 
 ---------------------------------------
-01 : 23 : 25
+02 : 05 : 04
 
 
 ---------------------------------    Lessons about develoupment 1C from 1Cnyk
