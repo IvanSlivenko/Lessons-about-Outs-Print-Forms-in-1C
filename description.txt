@@ -66,6 +66,8 @@ https://youtu.be/-kVTqXQSKYQ?list=PLnhTnXRFDQ7e9YNJ0jjZbI-WBqISw5NlP
 -------------------------------------------------------------------------- Lessons about request in 1c
 https://youtu.be/IN6Zb75OnqU?list=PLnhTnXRFDQ7en_MVaepKmkL2g23zOXQMx
 
+https://github.com/hal9000cc/RequestConsole9000#
+
 --------------------------------------------------------------------------
 00 : 37 : 14
 
