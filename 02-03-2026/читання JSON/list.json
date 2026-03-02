@@ -1,0 +1,112 @@
+[
+    {
+        "name": "ТОВ Альфа",
+        "fullname": "Товариство з обмеженою відповідальністю «Альфа»",
+        "partner_type": "Юридична особа",
+        "ipn": "1234567890",
+        "kpp": "12345678",
+        "phone": "+380501111111",
+        "email": "info@alfa.ua",
+        "is_customer": true,
+        "is_suppluer": false
+    },
+    {
+        "name": "ТОВ Бета",
+        "fullname": "Товариство з обмеженою відповідальністю «Бета»",
+        "partner_type": "Юридична особа",
+        "ipn": "2234567890",
+        "kpp": "22345678",
+        "phone": "+380502222222",
+        "email": "info@beta.ua",
+        "is_customer": true,
+        "is_suppluer": true
+    },
+    {
+        "name": "ТОВ Гамма",
+        "fullname": "Товариство з обмеженою відповідальністю «Гамма»",
+        "partner_type": "Юридична особа",
+        "ipn": "3234567890",
+        "kpp": "32345678",
+        "phone": "+380503333333",
+        "email": "info@gamma.ua",
+        "is_customer": false,
+        "is_suppluer": true
+    },
+    {
+        "name": "ФОП Іваненко",
+        "fullname": "Фізична особа-підприємець Іваненко Іван Іванович",
+        "partner_type": "ФОП",
+        "ipn": "4234567890",
+        "kpp": "",
+        "phone": "+380504444444",
+        "email": "ivanenko@gmail.com",
+        "is_customer": true,
+        "is_suppluer": false
+    },
+    {
+        "name": "ФОП Петренко",
+        "fullname": "Фізична особа-підприємець Петренко Петро Петрович",
+        "partner_type": "ФОП",
+        "ipn": "5234567890",
+        "kpp": "",
+        "phone": "+380505555555",
+        "email": "petrenko@gmail.com",
+        "is_customer": true,
+        "is_suppluer": true
+    },
+    {
+        "name": "ТОВ Дельта",
+        "fullname": "Товариство з обмеженою відповідальністю «Дельта»",
+        "partner_type": "Юридична особа",
+        "ipn": "6234567890",
+        "kpp": "62345678",
+        "phone": "+380506666666",
+        "email": "info@delta.ua",
+        "is_customer": false,
+        "is_suppluer": true
+    },
+    {
+        "name": "ТОВ Омега",
+        "fullname": "Товариство з обмеженою відповідальністю «Омега»",
+        "partner_type": "Юридична особа",
+        "ipn": "7234567890",
+        "kpp": "72345678",
+        "phone": "+380507777777",
+        "email": "office@omega.ua",
+        "is_customer": true,
+        "is_suppluer": false
+    },
+    {
+        "name": "ФОП Сидоренко",
+        "fullname": "Фізична особа-підприємець Сидоренко Сергій Сергійович",
+        "partner_type": "ФОП",
+        "ipn": "8234567890",
+        "kpp": "",
+        "phone": "+380508888888",
+        "email": "sydorenko@gmail.com",
+        "is_customer": false,
+        "is_suppluer": true
+    },
+    {
+        "name": "ТОВ Логістик",
+        "fullname": "Товариство з обмеженою відповідальністю «Логістик»",
+        "partner_type": "Юридична особа",
+        "ipn": "9234567890",
+        "kpp": "92345678",
+        "phone": "+380509999999",
+        "email": "logistic@company.ua",
+        "is_customer": true,
+        "is_suppluer": true
+    },
+    {
+        "name": "ФОП Коваль",
+        "fullname": "Фізична особа-підприємець Коваль Олександр Миколайович",
+        "partner_type": "ФОП",
+        "ipn": "1034567890",
+        "kpp": "",
+        "phone": "+380501010101",
+        "email": "koval@gmail.com",
+        "is_customer": true,
+        "is_suppluer": false
+    }
+]
